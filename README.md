@@ -1,4 +1,4 @@
-### Learn the basics of [Waffle](http://waffle.io), your simple project management solution for GitHub. Ship software faster and collaborate  by leveraging the collaborative power of GitHub for your entire team.
+### Learn the basics of [Waffle](http://waffle.io), your simple project management solution for GitHub. Ship software faster by leveraging the collaborative power of GitHub for your entire team.
 
 # Get Started 
 ### New to GitHub? All you need to do to get started with Waffle & GitHub is an account. it's easy! 
