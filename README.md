@@ -6,7 +6,7 @@ Waffle transforms the work in your GitHub repositories into cards on a board. Us
 Looking for answers to specific questions? Check our [FAQ's](https://github.com/waffleio/waffle.io/wiki/FAQs).
 
 ## Step 1: Create a GitHub Account 
-**If you already have a GitHub username, you can skip to Step 2.**
+**If you already have a GitHub username, [skip to Step 2](https://github.com/waffleio/getting-started-with-waffle/blob/master/README.md#step-2-log-in-at-waffleio).**
 
 New to GitHub? All you need to do to get started with Waffle & GitHub is an account. it's easy! 
 
