@@ -4,15 +4,18 @@ Learn the basics of [Waffle](http://waffle.io), your simple project management s
 **Waffle helps teams better plan, organize, and track the work they're doing in GitHub.**
 
 ## Where to Start 
-New to GitHub? All you need to do to get started with Waffle & GitHub is an account. it's easy! 
+### New to GitHub? All you need to do to get started with Waffle & GitHub is an account. it's easy! 
 
-- Go to GitHub.com and click sign up to get started. 
+Go to GitHub.com and click sign up to get started. 
 ![gettingstarted2-signup-with-github](https://cloud.githubusercontent.com/assets/100216/9797189/ea3a5d90-57c7-11e5-8a34-7e11d9553c86.gif)
 
-
-Want more? Start with this two part guide: 
+*Want to learn more about GitHub? Start with this two part guide.*
 - [GitHub for Beginners - Part 1](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
 - [GitHub for Beginners - Part 2](http://readwrite.com/2013/10/02/github-for-beginners-part-2)
+
+### Once you have a GitHub account, you're ready to use Waffle 
+
+Navigate to [Waffle.io](http://waffle.io) and click "Sign up" or "Get Started". Choose whether you want to use Waffle for a Public or Private repository. To read more about the permissions we need and why, see our [documentation](https://github.com/waffleio/waffle.io/wiki/FAQs#oauth-permissions).
 
 ## Invite your team 
 Waffle [moves work in progress for you](https://github.com/waffleio/waffle.io/wiki/FAQs#autoworktracking) in certain cases, but it works best if everyone on your team has logged in to Waffle at least once. (Otherwise, we use your user name to move work for others.)
