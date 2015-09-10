@@ -13,7 +13,7 @@ Waffle is a lightweight project management solution for your GitHub repositories
 
 #Table of Contents
 - [Step 1: Create a GitHub Account](https://github.com/waffleio/getting-started-with-waffle#step-1-create-a-github-account)
-- [Step 2: Log in at [Waffle.io](http://waffle.io)](https://github.com/waffleio/getting-started-with-waffle#step-2-log-in-at-waffleio)
+- [Step 2: Login at [Waffle.io](http://waffle.io)](https://github.com/waffleio/getting-started-with-waffle#step-2-log-in-at-waffleio)
 - [Step 3: Add a repository and Waffle it!](https://github.com/waffleio/getting-started-with-waffle#step-3-add-a-repository-and-waffle-it)
 - [Step 4: Invite your team to join](https://github.com/waffleio/getting-started-with-waffle#step-4-invite-your-team-to-join)
 - [Step 5: Customize your board](https://github.com/waffleio/getting-started-with-waffle#step-5-customize-your-board)
@@ -23,7 +23,7 @@ Looking for answers to specific questions? Check our [FAQ's](https://github.com/
 ## Step 1: Create a GitHub Account 
 **If you already have a GitHub username, [skip to Step 2](https://github.com/waffleio/getting-started-with-waffle/blob/master/README.md#step-2-log-in-at-waffleio).**
 
-New to GitHub? All you need to do to get started with Waffle & GitHub is an account. it's easy! 
+New to GitHub? All you need to get started with Waffle & GitHub is an account, it's easy! 
 
 - Go to GitHub.com and click sign up to get started. 
 ![gettingstarted2-signup-with-github](https://cloud.githubusercontent.com/assets/100216/9797189/ea3a5d90-57c7-11e5-8a34-7e11d9553c86.gif)
@@ -33,7 +33,7 @@ New to GitHub? All you need to do to get started with Waffle & GitHub is an acco
 - [GitHub for Beginners - Part 2](http://readwrite.com/2013/10/02/github-for-beginners-part-2)
 
 -- 
-## Step 2: Log in at [Waffle.io](http://waffle.io)
+## Step 2: Login at [Waffle.io](http://waffle.io)
 
 - Navigate to [Waffle.io](http://waffle.io) and click "Sign up" or "Get Started". 
 - Choose whether you want to use Waffle for a Public or Private repository. To read more about the permissions we need and why, see our [documentation](https://github.com/waffleio/waffle.io/wiki/FAQs#oauth-permissions).
@@ -44,7 +44,7 @@ New to GitHub? All you need to do to get started with Waffle & GitHub is an acco
 
 - Click the green + icon to see your existing boards or [add a new one in GitHub](https://github.com/new).
 - Once you see the repository you want to transform into a Waffle board, click on the title to Waffle it. 
-- Once viewing the board, select "Create Project" from the top blue banner as the final step. Your repository is now also viewable as a Waffle board. ![gettingstarted2-createproject](https://cloud.githubusercontent.com/assets/100216/9798536/88cd8af2-57cf-11e5-8fda-557528c18111.gif)
+- Once viewing the board, select "Let's go!" from the top blue banner as the final step. Your repository is now also viewable as a Waffle board. ![gettingstarted2-createproject](https://cloud.githubusercontent.com/assets/100216/9798536/88cd8af2-57cf-11e5-8fda-557528c18111.gif)
 
 --
 ## Step 4: Invite your team to join
