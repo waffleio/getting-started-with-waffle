@@ -1,6 +1,11 @@
 ### Learn the basics of [Waffle](http://waffle.io), your simple project management solution for GitHub. Ship software faster by leveraging the collaborative power of GitHub for your entire team.
+Waffle transforms the work in your GitHub repositories into cards on a board. Use it for code or non-code projects to organize and visualize issues and pull requests. 
 
-# Get Started 
+Check out how we use Waffle on our public board [here](http://waffle.io/waffleio/waffle.io).
+
+# Getting Started is Simple 
+**If you already have a GitHub username, you can skip to the next step.**
+
 ### New to GitHub? All you need to do to get started with Waffle & GitHub is an account. it's easy! 
 
 - Go to GitHub.com and click sign up to get started. 
@@ -28,7 +33,8 @@
 ### Invite your team to join!
 Waffle [moves work in progress for you](https://github.com/waffleio/waffle.io/wiki/FAQs#autoworktracking) in certain cases, but it works best if everyone on your team has logged in to Waffle at least once. (Otherwise, we use your user name to move work for others.)
 
-Invite all collaborators easily by sharing your board link with them.
+Invite all collaborators easily by sharing your board link with them (you can tweet public boards if you want to share your workflow with others.)
+![wafflesharepublic2](https://cloud.githubusercontent.com/assets/100216/9798930/29caeca4-57d2-11e5-8658-15818742876e.gif)
 
 
 ## Make the Most out of Your Waffle Board
