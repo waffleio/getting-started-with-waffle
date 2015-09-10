@@ -8,7 +8,6 @@ GitHub is today's most powerful tool for developer collaboration. With over 10 m
 
 **If you want to collaborate on the planning, organization, and status of projects hosted in GitHub, it is difficult.**
 Waffle extends the collaborative power of GitHub to *teams* with a simple, visual view of what's up next, what's in progress, and what's recently finished. 
-
 --
 *Developers know:*
 
