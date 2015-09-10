@@ -1,7 +1,10 @@
 # Getting Started with Waffle
 This 5 step visual guide will start you off with the basics of [Waffle](http://waffle.io), simple and smart project management for GitHub. 
 
-Waffle transforms the work in your GitHub repositories into cards on a board. Use it for code or non-code projects to organize and visualize issues and pull requests across one or more repositories on a single board. 
+**What is Waffle?**
+
+Waffle is a lightweight project management solution for your GitHub repositories. Waffle's source of record is GitHu. GitHub Issues and PR's transform into cards on a board making it easier to plan, organize, and track your work across one or many repositories.
+
 <img width="1690" alt="before-after-multirepo" src="https://cloud.githubusercontent.com/assets/100216/9794687/84a20e40-57ba-11e5-9152-51711617e70d.png">
 
 
