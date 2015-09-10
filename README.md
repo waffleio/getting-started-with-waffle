@@ -1,7 +1,18 @@
-# Getting Started
-This brief, visual guide will start you off with the basics of [Waffle](http://waffle.io), your simple project management solution for GitHub. Ship software faster by leveraging the collaborative power of GitHub for your entire team.
+# Getting Started with Waffle
+This 5 step visual guide will start you off with the basics of [Waffle](http://waffle.io), simple and smart project management for GitHub. 
 
-Waffle transforms the work in your GitHub repositories into cards on a board. Use it for code or non-code projects to organize and visualize issues and pull requests. Check out how we use Waffle on our public board [here](http://waffle.io/waffleio/waffle.io).
+Waffle transforms the work in your GitHub repositories into cards on a board. Use it for code or non-code projects to organize and visualize issues and pull requests across one or more repositories on a single board. 
+<img width="1690" alt="before-after-multirepo" src="https://cloud.githubusercontent.com/assets/100216/9794687/84a20e40-57ba-11e5-9152-51711617e70d.png">
+
+
+ Check out how we use Waffle on our public board [here](http://waffle.io/waffleio/waffle.io).
+
+#Table of Contents
+- [Step 1: Create a GitHub Account](https://github.com/waffleio/getting-started-with-waffle#step-1-create-a-github-account)
+- [Step 2: Log in at [Waffle.io](http://waffle.io)](https://github.com/waffleio/getting-started-with-waffle#step-2-log-in-at-waffleio)
+- [Step 3: Add a repository and Waffle it!](https://github.com/waffleio/getting-started-with-waffle#step-3-add-a-repository-and-waffle-it)
+- [Step 4: Invite your team to join](https://github.com/waffleio/getting-started-with-waffle#step-4-invite-your-team-to-join)
+- [Step 5: Customize your board](https://github.com/waffleio/getting-started-with-waffle#step-5-customize-your-board)
 
 Looking for answers to specific questions? Check our [FAQ's](https://github.com/waffleio/waffle.io/wiki/FAQs).
 
