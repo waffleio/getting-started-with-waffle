@@ -1,3 +1,5 @@
+## Getting Started with Waffle.io 
+
 This 5 step visual guide will start you off with the basics of [Waffle](http://waffle.io), simple and smart project management for GitHub. 
 
 **What is Waffle?**
